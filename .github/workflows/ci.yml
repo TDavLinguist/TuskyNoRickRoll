@@ -39,3 +39,12 @@ jobs:
         
       - name: Build
         run: ./gradlew app:buildGreenDebug
+        
+      - name: Assemble
+        run: ./gradlew app:assembleGreenDebug
+        
+      - name: Upload APK
+        uses: actions/upload-artifact@v3
+        with:
+          name: app
+          path: app/build/outputs/apk/green/debug/*.apk

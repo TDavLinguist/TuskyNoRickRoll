@@ -1,4 +1,9 @@
-[![Translate - with Weblate](https://img.shields.io/badge/translate%20with-Weblate-green.svg?style=flat)](https://weblate.tusky.app/) [![OpenCollective](https://opencollective.com/tusky/backers/badge.svg)](https://opencollective.com/tusky/) [![Build Status](https://app.bitrise.io/app/a3e773c3c57a894c/status.svg?token=qLu_Ti4Gp2LWcYT4eo2INQ&branch=develop)](https://app.bitrise.io/app/a3e773c3c57a894c) 
+# What is the "TuskyNoRickRoll" fork?
+In the Tusky FAQ, there is a section about [certain instances being blocked](https://github.com/tuskyapp/faq/blob/main/README.md#im-trying-to-log-in-to-my-account-and-am-being-rick-rolled-why) from Tusky and the user receiving a [Rick Roll](https://en.wikipedia.org/wiki/Rickrolling) as a result. The FAQ then says that the user is "free to use another Mastodon client" if they are offended. Well, I'm offended. Not because I believe those banned instances are fantastic, but because it's quite scary that a FOSS developer wants to tell users, "you're allowed to use any Mastodon/Pleroma instance you want **except those ones**!" What if the devs suddenly decide they don't like [fosstodon](https://www.fosstodon.org/) or some other instance? Then the user is just out of luck, I guess. But nope! The beauty of FOSS software is that even a n00b like me can fool around for ~2 hours and remove the offending code. Maybe one day the Tusky devs will change. Until then, I'll try to keep this updated. Please note that I will only be releasing "DEBUG" APKs and not releases here. Everything else is credit to the original Tusky devs and any bug reports, etc., that don't have to do with the RickRoll "feature" should go to the [main project](https://github.com/tuskyapp/Tusky).
+
+# Okay, back to the original Tusky README
+
+[![Translate - with Weblate](https://img.shields.io/badge/translate%20with-Weblate-green.svg?style=flat)](https://weblate.tusky.app/) [![OpenCollective](https://opencollective.com/tusky/backers/badge.svg)](https://opencollective.com/tusky/)
 # Tusky
 
 <img src="/fastlane/metadata/android/en-US/images/icon.png" width="120" height="120"/>
